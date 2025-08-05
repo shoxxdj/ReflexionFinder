@@ -87,3 +87,7 @@ Lire l’URL depuis l’entrée standard
 ```bash
 echo "https://example.com/?a=1&b=2" | ReflexionFinder --search
 ```
+
+# About
+
+Made with ❤️ and ChatGPT
